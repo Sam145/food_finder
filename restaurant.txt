@@ -1,0 +1,4 @@
+Pizza Hut	Italian	15
+Topolino's	Italian	18
+Golden Palace	Chinese	20
+Hot Tamale	Mexican	12
